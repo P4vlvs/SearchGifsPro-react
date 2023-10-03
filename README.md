@@ -1,7 +1,7 @@
 # React + Vite
 ## This app is about search gifs using Gihpy API and fetch with React and CSS
 
-**You can reviwe my app following the url: https://search-gif-pro.netlify.app/ !**
+**You can review my app following the url: https://search-gif-pro.netlify.app/ !**
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 
